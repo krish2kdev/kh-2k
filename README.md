@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kh-2k
-- 👀 I’m interested in WebDev With Java
+- 👀 I’m working in WebDev With Java
 - 🌱 I’m currently learning Linux, Shell, etc
-- 📫 How to reach me -> krishnahrithik00@gmail.com
 
 <!---
 kh-2k/kh-2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +18,10 @@ You can click the Preview link to take a look at your changes.
   <a href="https://twitter.com/krishnahrithik1">
   <img align="center" alt="KH's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />&nbsp;&nbsp;
   </a>
-  <a href="https://linkedin.com/in/kh2000">
+  <a href="https://linkedin.com/in/kh-2k">
   <img align="center" alt="KH's Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp;
   </a>
-  <a href="https://github.com/kh-2000">
+  <a href="https://github.com/kh-2k">
   <img align="center" alt="KH's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />&nbsp;&nbsp;
   </a>
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
