@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kh-2k
+- 👋 Hi, I’m Krishna Hrithik
 - 👀 I’m working in WebDev With Java
 - 🌱 I’m currently learning Linux, Shell, etc
 
