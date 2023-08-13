@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krishna Hrithik
-- 👀 I’m working in WebDev With Java
+- 👀 I’m working as WebDev in Java
 - 🌱 I’m currently learning Linux, Shell, etc
 
 <!---
