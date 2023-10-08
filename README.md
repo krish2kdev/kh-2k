@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
   I'm Krishna Hrithik(KH). I am CS graduate, working for a software firm full-time and learning part-time  
   </samp>
 <br><br>
-  <a href="https://twitter.com/krishnahrithik1">
-  <img align="center" alt="KH's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/gvskh_2k">
+  <img align="center" alt="KH's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />&nbsp;&nbsp;
   </a>
   <a href="https://linkedin.com/in/kh-2k">
   <img align="center" alt="KH's Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp;
