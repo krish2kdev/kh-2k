@@ -21,9 +21,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://linkedin.com/in/kh-2k">
   <img align="center" alt="KH's Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp;
   </a>
-  <a href="https://github.com/kh-2k">
-  <img align="center" alt="KH's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />&nbsp;&nbsp;
-  </a>
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br><br>
 </p>
